@@ -11,7 +11,7 @@ headers = { 'Accept':'application/json',
             'platform':'web',
             'Referer':'https://tinder.com/',
             'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
-            'X-Auth-Token':'44b3be54-d773-4e21-b4bc-1535fe0c769', #***Your tinder auth-token***
+            'X-Auth-Token':'1ba935a2-ad9b-4ea5-bf20-1bc02772056b', #***Your tinder auth-token***
             'x-supported-image-formats':'webp,jpeg'
         }
 
